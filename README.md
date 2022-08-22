@@ -6,7 +6,7 @@ Given the critical role of MLPU systems in cyber defence, it is important to tes
 <ol>
   <li>URLBUG: Repository for Generation of Adversarial Deceptive URL using URLBUG </li>
   <li>Reproducing_Machine_Learning_based_Phishing_URL_detectors: Code to Reproduce state-of-the-art MLPU Detectors </li>
-  <li></Dataset: Contains dataset to train the MLPU models and Adversarial Deceptive URL dataset to test and adversarially train MLPU Models</li>
+  <li>Dataset: Contains dataset to train the MLPU models and Adversarial Deceptive URL dataset to test and adversarially train MLPU Models</li>
   <li> Defence:
      <ul>
        <li> Contains code to adversarially train the MLPU models</li>
