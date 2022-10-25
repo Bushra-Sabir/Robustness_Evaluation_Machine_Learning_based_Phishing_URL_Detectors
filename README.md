@@ -31,9 +31,8 @@ Given the critical role of MLPU systems in cyber defence, it is important to tes
          
           
   ```diff
-  + @article in green 
-  {DBLP:journals/corr/abs-2005-08454, in purple
-  author    = {Bushra Sabir and in green
+  @article 
+  {author    = {Bushra Sabir and in green
                Muhammad Ali Babar and
                Raj Gaire},
   title     = {An Evasion Attack against ML-based Phishing {URL} Detectors},
