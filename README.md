@@ -28,8 +28,8 @@ ArXiv Link: https://arxiv.org/abs/2005.08454
 **If you use TextAttack for your research, please cite **
 
   ```diff
-@article{DBLP:journals/corr/abs-2005-08454,
-  author    = {Bushra Sabir and
+ + @article{DBLP:journals/corr/abs-2005-08454, in green
+  author    = {Bushra Sabir and in green
                Muhammad Ali Babar and
                Raj Gaire},
   title     = {An Evasion Attack against ML-based Phishing {URL} Detectors},
