@@ -37,12 +37,10 @@ Given the critical role of MLPU systems in cyber defence, it is important to tes
                Muhammad Ali Babar and
                Raj Gaire,
                Alsharif Abuadbba},
-  journal   = {CoRR},
+  journal   = {Transactions of Dependable and Secure Computing, Special Issue: Reliability and Robustness in AI-Based Cybersecurity Solution},
   volume    = {abs/2005.08454},
-  year      = {2020},
+  year      = {2022},
   url       = {https://arxiv.org/abs/2005.08454},
-  eprinttype = {arXiv},
-  eprint    = {2005.08454},
   timestamp = {Mon, 03 Aug 2020 19:23:49 +0200},
   biburl    = {https://dblp.org/rec/journals/corr/abs-2005-08454.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
