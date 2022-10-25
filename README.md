@@ -31,8 +31,8 @@ Given the critical role of MLPU systems in cyber defence, it is important to tes
          
           
   ```diff
- + @article {urlbugtdsc2022, in green
-  title     = {An Evasion Attack against ML-based Phishing {URL} Detectors}, in purple @@
+  @article {urlbugtdsc2022, 
+  title     = { Reliability and Robustness analysis of Machine Learning based Phishing URL Detectors}
   author    = {Bushra Sabir and in green
                Muhammad Ali Babar and
                Raj Gaire},
