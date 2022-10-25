@@ -31,6 +31,13 @@ ArXiv Link: https://arxiv.org/abs/2005.08454
 **If you use TextAttack for your research, please cite **
 
 <div >
+  ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
   @article{DBLP:journals/corr/abs-2005-08454,
   author    = {Bushra Sabir and
                Muhammad Ali Babar and
