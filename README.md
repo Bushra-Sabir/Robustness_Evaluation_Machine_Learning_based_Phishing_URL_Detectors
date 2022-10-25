@@ -28,7 +28,7 @@ ArXiv Link: https://arxiv.org/abs/2005.08454
 **If you use TextAttack for your research, please cite **
 
   ```diff
- + @article{DBLP:journals/corr/abs-2005-08454, in green
+  @article{DBLP:journals/corr/abs-2005-08454, 
   author    = {Bushra Sabir and in green
                Muhammad Ali Babar and
                Raj Gaire},
@@ -42,10 +42,6 @@ ArXiv Link: https://arxiv.org/abs/2005.08454
   timestamp = {Mon, 03 Aug 2020 19:23:49 +0200},
   biburl    = {https://dblp.org/rec/journals/corr/abs-2005-08454.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
-  in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+
 ```
   
